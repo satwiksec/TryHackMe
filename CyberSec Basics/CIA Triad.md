@@ -60,9 +60,9 @@ Even if data is secure, it is not useful if users cannot access it.
 
 ### Examples
 
-- A company's website going offline during business hours ❌
-- A server crashing due to a Denial-of-Service (DoS) attack ❌
-- Systems remaining accessible to employees during working hours ✅
+- A company's website going offline during business hours 
+- A server crashing due to a Denial-of-Service (DoS) attack 
+- Systems remaining accessible to employees during working hours 
 
 ### Common ways to improve availability
 
