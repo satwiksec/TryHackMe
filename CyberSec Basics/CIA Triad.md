@@ -87,7 +87,7 @@ These questions help identify which security property has been affected and guid
 -------------------------------------------------------------------------------------------------------
 
 
-## Quick Summary
+## Summary
 
 | Pillar | Main Question |
 |--------|---------------|
@@ -95,7 +95,7 @@ These questions help identify which security property has been affected and guid
 | **Integrity** | Can the data be trusted? |
 | **Availability** | Can users access the data when needed? |
 
-> **Easy way to remember**
+> **In one line:**
 >
 > - **Confidentiality** → Keep data **secret**
 > - **Integrity** → Keep data **correct**
